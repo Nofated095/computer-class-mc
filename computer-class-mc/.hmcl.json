@@ -1,0 +1,31 @@
+{
+  "last": "Default",
+  "backgroundType": "DEFAULT",
+  "commonDirType": "DEFAULT",
+  "commonpath": "/Users/macbook/Library/Application Support/minecraft",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "HTTP",
+  "proxyPort": 0,
+  "width": 834.0,
+  "height": 514.0,
+  "theme": "blue",
+  "localization": "def",
+  "downloadType": "bmclapi",
+  "configurations": {},
+  "accounts": [
+    {
+      "uuid": "e3101a12b350369e8d6bb0fe19ee23aa",
+      "username": "ccmc",
+      "type": "offline",
+      "selected": true
+    }
+  ],
+  "fontFamily": "Consolas",
+  "fontSize": 12.0,
+  "logLines": 100,
+  "authlibInjectorServers": [],
+  "updateChannel": "STABLE",
+  "_version": 0,
+  "uiVersion": 0
+}
