@@ -7,7 +7,8 @@
 目录
 - [客户端](#客户端的搭建)
 - [服务端](#服务端的搭建)
-- [服务端](#注意事项)
+- [注意事项](#注意事项)
+- [IP地址](./ip.md)
 
 ## 客户端的搭建
 
@@ -29,9 +30,27 @@ HMCL 下载地址 [点我点我](./files/HMCL.jar)
 
 下载源选MCBBS
 
-！注意，如果当天出现问题可以尝试使用其他源，尽量不要让同学传话
-![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step4.jpg)
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step4.png)
 
+选择 1.14.4
+
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step5.png)
+
+点击安装并等待安装完成
+
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step6.png)
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step7.png)
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step8.png)
+
+点选 1.14.4
+
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step9.png)
+
+点返回并点击启动1.14.4
+
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step10.png)
+
+！注意，如果当天出现问题可以尝试使用其他源，尽量不要让同学传话
 
 ## 服务端的搭建
 
