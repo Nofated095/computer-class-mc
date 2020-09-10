@@ -43,7 +43,7 @@ HMCL 下载地址 [点我点我](./files/hmcl.jar)
 
 [B站教程 / 防SB](https://www.bilibili.com/video/BV1ye411x7Vb)
 
-[Python运营库](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/files/python-3.8.5-amd64.json)
+[Python运营库](./files/python-3.8.5-amd64.exe)
 
 
 
