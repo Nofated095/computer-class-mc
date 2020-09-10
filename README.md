@@ -13,31 +13,43 @@
 
 统一使用 HMCL 构建的最新版本，使用国际版 1.14.4。
 
-HMCL 下载地址 [点我点我](./hmcl.jar)
+HMCL 下载地址 [点我点我](./files/hmcl.jar)
 
 下载完成后双击打开
 
-![](./assets/client/step1.png)
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step1.png)
 
 创建账户
 
-![](./assets/client/step2.png)
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step2.png)
 
 点击“版本列表”并点击安装新游戏版本
 
-![](./assets/client/step3.png)
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step3.png)
 
 下载源选MCBBS
 
 ！注意，如果当天出现问题可以尝试使用其他源，尽量不要让同学传话
-![](./assets/client/step4.jpg)
+![](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/assets/client/step4.jpg)
 
 
 ## 服务端的搭建
 
 >服务端采用 MCDR+Fabric+Carpet 计划4GB-3GB内存。
 
-MCDR下载s
+[BMCLAPI大法好](https://bmclapidoc.bangbang93.com/)
+
+[MCDR下载](https://github.com/Fallen-Breath/MCDReforged/releases)
+
+[B站教程 / 防SB](https://www.bilibili.com/video/BV1ye411x7Vb)
+
+[Python运营库](https://cdn.jsdelivr.net/gh/Nofated095/computer-class-mc@master/files/python-3.8.5-amd64.exe)
+
+
+
+    pip install scrapy -i https://pypi.tuna.tsinghua.edu.cn/simple // 换源
+
+    pip install -r requirement.txt // 安装MCDR需要的插件
 
 ## 注意事项
 
