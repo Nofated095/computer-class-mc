@@ -13,7 +13,7 @@
 
 统一使用 HMCL 构建的最新版本，使用国际版 1.14.4。
 
-HMCL 下载地址 [点我点我](./files/hmcl.jar)
+HMCL 下载地址 [点我点我](./files/HMCL.jar)
 
 下载完成后双击打开
 
